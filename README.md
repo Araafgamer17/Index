@@ -1,6 +1,11 @@
 # Index
-Something
-
-https://youtube.com/@araafgamer17?si=R0tNgBahrLfgUH1B
-
-https://central.github.com/deployments/desktop/desktop/latest/win32
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Website</title>
+</head>
+<body>
+  <h1>Hello world</h1>
+  <p>This is my free website.</p>
+</body>
+</html>
